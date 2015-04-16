@@ -4,7 +4,7 @@
 //
 //  Created by Mac on 14-12-28.
 //  Copyright (c) 2014年 yyp. All rights reserved.
-//
+//  豆荚VPN才能下载git
 
 #import <Foundation/Foundation.h>
 
